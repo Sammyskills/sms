@@ -1,0 +1,106 @@
+THE KEY FEATURES: 1610608047408
+
+
+-Full Customizations to taste e.g. 
+Fee Configurator, 
+Class Setup, 
+Session/Event Definition, 
+Subject Definition, 
+Grades Definition, 
+Promotion Rule Setup, 
+Fee payment rules, 
+Cleanliness ratings, Behavioural ratings,  Psychomotor measures, 
+Staff Grades setup, 
+Allowances, 
+Deductions, 
+Leave Bonus Settings, 
+Biometric and Payroll settings, 
+updating, staff search,  etc)
+
+- Full Access Control and Permissions
+
+- Staff database (salry/grading,  Add New Staf, bio-data/profile, performance, training)
+
+- Student Databases
+
+- Sophisticated Search Engines for Students/Staff(includes Picture Search facility).
+
+- Email and SMS Alert upon payment
+
+- Auto Email/SMS Alert to Debtors
+
+- Event Notification
+
+- Exam and Record (teachers will  be  able  to  login  to  the system and submit the scores of the students. 
+Subject teachers can only input score to their respective subjects. class  teacher can input scores in any subject for students 
+in his/her class
+
+- Auto SMS Alerts
+
+- Biometric-driven Attendance System
+
+- Auto Promotion to Next Class
+
+- E-Result submission/Emailing to parents
+
+- Auto Position/Student Rankin Result.
+
+- Student E-wallet Management (parents transfer fund  into  the  school  account. School  can  pay  Tuition  fee  or  any  other  
+fee  using  it.
+
+- In-built Principal and Teachers Comment Templates
+
+- Enquiries Database Management
+
+- Follow-up SMS Alerts
+
+- System Tools (Calculators,  Backup/Restore  tool,  Password  Manager etc)
+
+- Billing/Invoicing (Auto-Email with Report sheets)
+
+- School Accounts Management (Income & Expenses - fee payment made are recorded into the Income and Expenses Database)
+
+- Incidence and Accident Database
+
+- payment processes (payment  made are recorded  though  this  feature. SMS will be fired to the respective parents and Emails as well)
+
+- System Auditing  and Control
+
+- 24/7 Support and Quick Response time (Subject to conditions)
+
+- Student Self Services (Print Bill, Print Result, Payment History, E Wallet, Change login details, print next session bill)
+
+- Intelligence Reporting (Debtor list, Student List, Staff List, Payment History, ,System Auditing Report, List of Books/Stationery, 
+School accounts reconciliation report, Staff Salary Payment Schedule report, Loans/IOU reports, Staff Payroll/Payslips etc).
+
+PREMIUM FEATURES ON REQUEST:
+
+- CBT Exams Module
+- Payroll and HR System
+- Timetable Management System
+- Hostel Management System
+- Curriculum Database
+- Library Management System
+- Biometric-Based Staff Attendance System
+- Biometric-Based Student Attendance System
+- Incident and Accident
+
+SOFTWARE KEY BENEFITS
+
+- Save cost of paper works on results, receipts and list of books(Email facility)
+- Reduces/Eliminates fraudulent acts through Real-time Fee Payment Notification to parents/guardian(SMS and Email)
+- Easily determine the school account position.
+- Eliminates manual result computations.
+- Search Staff and Students Records easily.
+- Eliminates Manual School Register (Biometric-based version only)
+- Result Fraud/Manipulations by Students? Promotes Parents-School relationship as a result of Email/SMS facilities.
+- Eliminates time waste on Reporting
+
+- payment  made  by  any  student  either  into  bank  or  by cheque  or  bankdraft  or  even  by  hand  must  be  recorded. 
+SMS is fired to the respective parents and Emails as well. 
+
+OPERATION STEPS: 
+
+Choose Payment Processing. Choose whether it is INDIVIDUAL PAYMENT or GROUP  MEMBER  PAYMENT.Choose  the  STUDENT  ID  from  the  drop-down. Current balance of such child/student, the passport, the class etc are retrieved from  the  DB  immediately.  Confirm  with  Parent  using  the  passport  displayed and  then  input  the  payment  amount;  then  Record  Payment.  Receipts are generated automatically and SMS fired to parents.
+
+This is just a sample, yours could take an entirely a different route or method of administration.
